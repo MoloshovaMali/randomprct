@@ -14,7 +14,7 @@ public class Main {
         int c=arr[4];
         arr[4]=arr[5];
         arr[5]=c;
-        System.out.println(Arrays.toString(arr));
+
 
     }
 
